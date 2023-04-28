@@ -15,7 +15,7 @@ No installation is required. Simply download the Python script and run it using 
 
 bash
 Copy code
-pip install pandas numpy python-dateutil PyQt5
+'pip install pandas numpy python-dateutil PyQt5
 
 # Usage
 Run the data_anonymizer_v2.py script:
